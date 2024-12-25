@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Add to Cart</title>
+    <link rel="stylesheet" href="style.css">
     <style>
-        body {
+        #root {
             font-family: Arial, sans-serif;
             display: flex;
        gap: 40px;
@@ -67,9 +68,19 @@
     </style>
 </head>
 
-<body id="root">
-
-   
+<body>
+    <header>
+        <div class="container">
+            <h1>Awesome Gadgets</h1>
+            <nav>
+                <ul>
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+   <div  id="root"></div>
     <script>
         let result = localStorage.getItem('cart')
         let data = JSON.parse(result)
