@@ -1,0 +1,33 @@
+[
+    {
+    "imgsrc": "https://add-to-cart-javascript.vercel.app/img/men-1.jpg",
+    "imgtitle": "Oxford Shirts",
+    "imgprice": 1200,
+    "imgrating": "(4.9)",
+    "imgratingpath": "./star-fill (1).svg",
+    "btnaddto": "Add To Cart"
+  },
+  {
+    "imgsrc": "https://add-to-cart-javascript.vercel.app/img/women-1.jpg",
+    "imgtitle": "Tunic",
+    "imgprice": 459,
+    "imgrating": "(4.4)",
+    "imgratingpath": "./star-fill (1).svg",
+    "btnaddto": "Add To Cart"
+  },
+  {
+    "imgsrc": "https://add-to-cart-javascript.vercel.app/img/watch-1.jpg",
+    "imgtitle": "Huawei Watch Buds",
+    "imgprice": 4059,
+    "imgrating": "(4.4)",
+    "imgratingpath": "./star-fill (1).svg",
+    "btnaddto": "Add To Cart"
+  },
+  {
+    "imgsrc": "https://add-to-cart-javascript.vercel.app/img/men-2.jpg",
+    "imgtitle": "Short Sleeve Shirt",
+    "imgprice": 800,
+    "imgrating": "(4.9)",
+    "imgratingpath": "./star-fill (1).svg",
+    "btnaddto": "Add To Cart"
+ }]
